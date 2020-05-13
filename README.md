@@ -4,7 +4,7 @@ Projeto Java Android do artigo [Notificação de Engajamento Pelo Firebase Conso
 
 Artigo que apresenta em detalhes como utilizar notificações push em aplicativos Android sem precisar de toda uma configuração Web proprietária.
 
-As notificações são disparadas por meio do dashboard do Firebase Notification.
+As notificações são disparadas por meio do dashboard do Firebase Notification (ou Firebase Console).
 
 <img src="https://www.thiengo.com.br/img/post/normal/jo1hb8qek7iqljb96mpe98sl805ce20c1fceeaa05d9f7b8905acd80dd3.jpg" width="220" alt="App Android de exemplo acionado por meio de uma push message do Firebase Notification">
 
